@@ -1,7 +1,7 @@
 ### Hi 👋 Welcome to My Github Page !✨
 #### Tg Channel：https://t.me/Yuio_c
 
-[![Github Badge](https://img.shields.io/badge/-Github-232323?color=%23e17055&style=flat-square&logo=Github&logoColor=white&link=https://github.com/ByteRK)](https://github.com/ByteRK)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?color=%23e17055&style=flat&logo=Github&logoColor=white&link=https://github.com/ByteRK)](https://github.com/ByteRK)
 ![](https://visitor-badge.glitch.me/badge?page_id=ByteRK&left_color=%23636e72&right_color=%2300cec9)  
 
 <!-- 贪吃蛇代码贡献图 -->
