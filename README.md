@@ -2,7 +2,7 @@
 #### Tg Channel：https://t.me/Yuio_c
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ByteRK)](https://github.com/ByteRK)
-![](https://visitor-badge.glitch.me/badge?page_id=ByteRK)  
+![](https://visitor-badge.glitch.me/badge?page_id=ByteRK&left_color=#636e72&right_color=#00cec9)  
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/ByteRK/ByteRK/contribution-snake/github-contribution-snake.svg" /></div>
